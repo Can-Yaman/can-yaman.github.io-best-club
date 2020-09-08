@@ -1,1 +1,1 @@
-# can-yaman.github.io/best-club
+# northern-stars-best-club.github.io
