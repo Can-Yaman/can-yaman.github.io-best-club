@@ -1,1 +1,1 @@
-# can-yaman.github.io-best-club
+# can-yaman.github.io/best-club
