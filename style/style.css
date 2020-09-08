@@ -10,7 +10,7 @@ html {
 }
 
 body {
-  background: url("https://picsum.photos/800/600?random=2"), rgba(0, 0, 0, 0.5);
+  background: url("https://picsum.photos/800/600?random=2"), rgba(0, 0, 0, 0.2);
   background-size: cover;
   background-blend-mode: multiply;
   position: absolute;
